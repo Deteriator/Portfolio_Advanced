@@ -51,8 +51,10 @@ a{
 
 /* Main marketing message and sign up button */
 .jumbotron {
+  background:url("http://pre09.deviantart.net/7374/th/pre/f/2013/069/d/0/start_background_1080p__windows_8__by_zaktech90-d5xn0lk.jpg");
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  top:123px;
 }
 .jumbotron .btn {
   padding: 14px 24px;
